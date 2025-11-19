@@ -1,0 +1,1 @@
+{Place your instructions here. You don’t need to reference `transcript.md` or `.github/instructions/workshop.instructions.md`, the default Copilot instructions already cover those.}
