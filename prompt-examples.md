@@ -24,7 +24,7 @@ As a Developer responsible for breaking down the work into implementable tasks, 
 Optional instructions:  
 - Rerun as a Mobile developer from a different team who needs to spot cross‑team dependencies.  
 - Rerun as an Engineering Manager to highlight delivery risks and feature‑flag rollout.  
-- Rerun as a PM or Designer to emphasize manager expectations, blocked‑vs‑hidden UX, and trust signals from the BrightLeaf and Lighthouse stories.  
+- Rerun as a PM or Designer to emphasize manager expectations, blocked‑vs‑hidden UX.  
 
 
 =================================================================================
