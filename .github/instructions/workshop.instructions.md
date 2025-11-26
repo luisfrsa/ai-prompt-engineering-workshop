@@ -23,12 +23,12 @@ You are assisting in a **prompt engineering workshop**.
 
 - For each `transcript.md` analysis using `prompt.md` (summaries, structured notes, shrunk versions, style variants):
   - Write the output to a markdown file under the `results/` directory.
-  - Prefix the file name with incremental numbers.
-  - Suffix the file name choosing an unique name, max 6 words combined by `_` that represent the prompt from `prompt.md`.
+  - The output markdown file **MUST** start with a top level heading containing the prompt used from `prompt.md`, that can be referenced later.
+  - Chose an unique name, max 6 words combined by `_` that represent the prompt from `prompt.md`.
     - For example, but not limited to:
-      - `01_baseline_simple_summarize_meeting.md`
-      - `01_persona_summary_from_pm_perspective.md`
-      - `01_structured_what_heard_means_next.md`
+      - `baseline_simple_summarize_meeting.md`
+      - `persona_summary_from_pm_perspective.md`
+      - `structured_what_heard_means_next.md`
 - Never write outside the `results/` directory.
 
 ## 3. Memory
