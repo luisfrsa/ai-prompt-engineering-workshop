@@ -51,6 +51,7 @@ Produce a structured summary of this meeting with these sections:
 2. Technical Decisions & Constraints  
 3. Risks, Blockers & Dependencies  
 4. Owners & Task Breakdown  
+5. Jira ticket drafts
 
 ```
 
@@ -85,6 +86,10 @@ Summarize the meeting into these sections:
 2. Technical Decisions & Constraints — a markdown table with columns: decision, constraint, impact; rows sorted by impact (highest first).  
 3. Risks, Blockers & Dependencies — top‑level bullets, each with at most one short sub‑bullet for detail.  
 4. Owners & Task Breakdown — one line per owner, in the format `{owner_name}[role]: {task_or_next_step}`.  
+5. Jira ticket drafts:
+ - Title: [{issue_type}] {issue_title}
+ - Description: {Context} as a paragraph and {AC} in bullet points
+
 ```
 
 Optional instructions:  
